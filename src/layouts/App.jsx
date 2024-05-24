@@ -21,7 +21,7 @@ function App() {
                 </div>
                 <div>
                     <h1>
-                        CECAR-corporacion universitaria del caribe
+                        CECAR-Corporacion Universitaria Del Caribe
                     </h1>
                     <h2>
                         Programa: Ingenieria En Sistemas
@@ -30,7 +30,7 @@ function App() {
                 <div>
                     <h1>
                         Profesor: <br/>
-                        MOISES ALBERTO CONTRERAS PACHECO
+                        MOISES ALBERTO CONTRERAS
                     </h1>
                 </div>
                 <div>
