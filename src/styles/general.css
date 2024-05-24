@@ -1,0 +1,8 @@
+#app{
+    display: grid;
+    grid-template-areas:
+    "main main main"
+    "footer footer footer";
+    grid-template-columns:1fr auto;
+    grid-template-rows: 1fr auto;
+}
