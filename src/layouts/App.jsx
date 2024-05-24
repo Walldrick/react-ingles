@@ -30,7 +30,7 @@ function App() {
                 <div>
                     <h1>
                         Profesor: <br/>
-                        Moises Villazon Terrero
+                        MOISES ALBERTO CONTRERAS PACHECO
                     </h1>
                 </div>
                 <div>
