@@ -6,10 +6,10 @@ const PagHome = () => {
             <div className="">
                 <VideoSection/>
             </div>
-            <h1 className="text-xl md:text-2xl lg:text-4xl">The Role of a Systems Engineer Specializing in
+            <h1 className="text-xl md:text-2xl lg:text-4xl  text-center">The Role of a Systems Engineer Specializing in
                 Programming</h1>
             <br/>
-            <p className="text-sm md:text-base lg:text-lg">As a Systems Engineer specializing in programming, my
+            <p className="text-sm md:text-base lg:text-lg text-center">As a Systems Engineer specializing in programming, my
                 professional responsibilities encompass a wide array of tasks and challenges. This multifaceted role
                 requires not only technical proficiency but also strategic thinking, collaborative skills, and a
                 commitment to continuous learning.
