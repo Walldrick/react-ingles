@@ -3,7 +3,7 @@ import VideoSection from "../sections/VideoSection.jsx";
 const PagHome = () => {
     return (
         <div className="p-5 m-4 rounded-lg border border-amber-50">
-            <div className="items-center">
+            <div className="">
                 <VideoSection/>
             </div>
             <h1 className="text-xl md:text-2xl lg:text-4xl">The Role of a Systems Engineer Specializing in
